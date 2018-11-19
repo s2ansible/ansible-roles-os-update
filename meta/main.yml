@@ -1,6 +1,7 @@
 galaxy_info:
   role_name: os_update
   author: youyo
+  company: heptagon inc.
   description: update system
   license: MIT
   min_ansible_version: 2.4
